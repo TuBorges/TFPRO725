@@ -1,0 +1,99 @@
+id_produto,nome_produto,descricao,unidade_medida
+A7B3C9D2E,Parafuso sextavado,"Parafuso sextavado zincado, rosca padrão DIN 933",M2 x 5mm
+F5G8H1J4K,Parafuso allen,"Parafuso Allen A2-70, cabeça cilíndrica","M2,5 x 6mm"
+L2M6N9P3Q,Parafuso auto-atarraxante,"Parafuso auto-atarraxante para madeira, rosca grossa",M3 x 8mm
+R7S4T8U1V,Parafuso francês,"Parafuso flangeado Torx, anti-vibração","M3,5 x 10mm"
+W3X5Y9Z2A,Parafuso borboleta,"Parafuso prisioneiro DIN 975, aço carbono",M4 x 12mm
+B8C1D4E7F,Parafuso de pressão,Parafuso de pressão com arruela embutida,M4 x 16mm
+G2H5J8K3L,Parafuso prisioneiro,Parafuso estrutural galvanizado a quente,M5 x 20mm
+M4N7P1Q6R,Parafuso de máquina,"Parafuso de aço 8.8, cabeça hexagonal",M6 x 25mm
+S9T2U5V8W,Parafuso estrutural,"Parafuso de titânio ASTM F136, rosca direita",M8 x 30mm
+X3Y6Z9A2B,Parafuso para madeira,"Parafuso de alta resistência 10.9, zincado",M10 x 40mm
+C4D7E1F5G,Parafuso para concreto,Parafuso de ancoragem para concreto M12,M12 x 50mm
+H8J3K6L9M,Parafuso para drywall,"Parafuso de aço inox 316, cabeça aviada",M14 x 60mm
+N2P5Q8R3S,Parafuso flangeado,Parafuso de rosca trapezoidal ACME,M16 x 70mm
+T7U1V4W6X,Parafuso de aço inox,"Parafuso de aço corten, autolimpante",M20 x 80mm
+Y9Z2A5B8C,Parafuso de titânio,"Parafuso de aço forjado, grau 12.9",M24 x 100mm
+D1E4F7G2H,Parafuso de cabeça chata,"Parafuso de fixação permanente, cabeça perdida",M30 x 120mm
+J5K8L3M6N,Parafuso de cabeça redonda,Parafuso de aço naval ASTM A193,M36 x 150mm
+P9Q2R5S8T,Parafuso de cabeça cilíndrica,"Parafuso de rosca esquerda, aço liga",M42 x 180mm
+U3V6W9X2Y,Parafuso de rosca soberba,Parafuso de ancoragem química M48,M48 x 200mm
+Z4A7B1C5D,Parafuso de segurança,"Parafuso UNC, rosca grossa, cabeça Phillips","1/4"" x 1/2"""
+E8F2G5H9J,Parafuso de precisão,Parafuso auto-perfurante para metal,"5/16"" x 3/4"""
+K3L6M9P2Q,Parafuso de porca embutida,"Parafuso de nylon, isolante elétrico","3/8"" x 1"""
+R7S1T4U6V,Parafuso de fixação rápida,"Parafuso de latão, resistente à corrosão","1/2"" x 1,5"""
+W9X2Y5Z8A,Parafuso de rosca fina,Parafuso de bronze naval,"5/8"" x 2"""
+B3C6D9E2F,Parafuso de rosca grossa,Parafuso de fibra de carbono,"3/4"" x 3"""
+G5H8J1K4L,Parafuso de cabeça Phillips,"Parafuso de cerâmica, alta temperatura","1"" x 4"""
+M7N2P5Q9R,Parafuso de cabeça Torx,"Parafuso para drywall, rosca agressiva",#4 x 10mm
+S3T6U9V2W,Parafuso de cabeça quadrada,Parafuso de cabeça borboleta,#6 x 13mm
+X5Y8Z1A4B,Parafuso de cabeça estrela,Parafuso de segurança Torx (antifurto),#8 x 16mm
+C9D2E5F8G,Parafuso de cabeça fenda,Parafuso de alumínio 6061-T6,#10 x 20mm
+H1J4K7L2M,Parafuso de cabeça hexagonal,Parafuso de aço patinável,#12 x 25mm
+N5P8Q3R6S,Parafuso de cabeça rebatida,"Parafuso de precisão, rosca UNF","1/4""-20 x 30mm"
+T9U2V5W8X,Parafuso de cabeça aviada,Parafuso de plástico POM,M3 x 5mm
+Y3Z6A9B2C,Parafuso de cabeça escareada,"Parafuso de aço inox 410, temperado",M4 x 15mm
+D4E7F1G5H,Parafuso de cabeça fresada,Parafuso de cabeça fresada DIN 912,M5 x 25mm
+J8K3L6M9N,Parafuso de cabeça boleada,Parafuso de rosca dupla,M6 x 35mm
+P2Q5R8S3T,Parafuso de cabeça perdida,Parafuso de aço espacial Inconel 718,M8 x 45mm
+U6V9W2X5Y,Parafuso de cabeça alta,Parafuso de rosca quadrada,M10 x 55mm
+Z7A1B4C8D,Parafuso de cabeça baixa,Parafuso de aço magnético,M12 x 65mm
+E2F5G9H3J,Parafuso de cabeça universal,"Parafuso sanitário, superfície lisa",M14 x 75mm
+K6L9M2P5Q,Parafuso de rosca sem fim,Parafuso de ultra-resistência ASTM A490,M16 x 85mm
+R1S4T7U2V,Parafuso de rosca direita,Parafuso de ancoragem expansiva,M20 x 95mm
+W5X8Y1Z4A,Parafuso de rosca esquerda,Parafuso de rosca serrilhada,M24 x 110mm
+B7C2D5E9F,Parafuso de rosca dupla,Parafuso de aço super duplex,M30 x 130mm
+G9H3J6K2L,Parafuso de rosca tripla,Parafuso de fixação termorretrátil,M36 x 160mm
+M4N7P1Q5R,Parafuso de rosca quadrada,Microparafuso de cobre,2mm x 4mm
+S8T3U6V9W,Parafuso de rosca trapezoidal,Parafuso de nylon preto,"2,5mm x 6mm"
+X2Y5Z8A3B,Parafuso de rosca ACME,Parafuso de aço inox 430,3mm x 7mm
+C6D9E2F5G,Parafuso de rosca serrilhada,Parafuso de titânio Grade 5,"3,5mm x 9mm"
+H3J6K9L2M,Parafuso de rosca cortante,Parafuso de fibra de vidro,4mm x 11mm
+N7P1Q4R8S,Parafuso de fixação permanente,Parafuso de poliamida,5mm x 14mm
+T3U6V9W2X,Parafuso de fixação temporária,Parafuso de aço revestido em PTFE,6mm x 18mm
+Y5Z8A1B4C,Parafuso de montagem rápida,Parafuso de alumínio anodizado,7mm x 22mm
+D7E2F5G9H,Parafuso de vedação,Parafuso de bronze fosforoso,8mm x 26mm
+J1K4L7M3N,Parafuso anti-vibração,Parafuso de aço carbono zincado,9mm x 30mm
+P5Q8R2S6T,Parafuso anti-roubo,Parafuso de aço inox 316L,10mm x 35mm
+U9V3W6X9Y,Parafuso de alta resistência,Parafuso de rosca ACME,12mm x 40mm
+Z2A5B8C1D,Parafuso galvanizado,Parafuso de aço corten,14mm x 45mm
+E4F7G2H6J,Parafuso zincado,Parafuso de alta temperatura,16mm x 50mm
+K8L3M6P9Q,Parafuso niquelado,Parafuso de aço inox 321,18mm x 55mm
+R2S5T8U3V,Parafuso cromado,Parafuso de aço liga 4140,20mm x 60mm
+W6X9Y2Z5A,Parafuso de latão,Parafuso de rosca esquerda,22mm x 65mm
+B1C4D7E2F,Parafuso de bronze,Parafuso de aço inox 2205,25mm x 70mm
+G5H9J3K6L,Parafuso de alumínio,Parafuso de aço inox 254,28mm x 75mm
+M8N2P5Q9R,Parafuso de nylon,Parafuso de titânio Grade 2,30mm x 80mm
+S4T7U1V5W,Parafuso de plástico,Parafuso de aço inox 17-4PH,35mm x 90mm
+X8Y3Z6A9B,Parafuso de fibra de carbono,Parafuso de aço inox 904L,40mm x 100mm
+C2D5E8F3G,Parafuso de cerâmica,Parafuso de monel,45mm x 110mm
+H6J9K2L5M,Parafuso de aço carbono,Parafuso de hastelloy,50mm x 120mm
+N1P4Q7R2S,Parafuso de aço temperado,Parafuso de inconel 625,60mm x 150mm
+T5U8V3W6X,Parafuso de aço forjado,Parafuso de zircônio,70mm x 180mm
+Y7Z2A5B9C,Parafuso de aço liga,Parafuso de tantalum,80mm x 200mm
+D3E6F9G2H,Parafuso de aço corten,Parafuso de nióbio,90mm x 220mm
+J7K2L5M8N,Parafuso de aço patinável,Parafuso de tungstênio,100mm x 250mm
+P1Q4R7S3T,Parafuso de aço naval,Parafuso de alumínio anodizado,7mm x 22mm
+U5V8W2X6Y,Parafuso de aço aeronáutico,Parafuso de bronze fosforoso,8mm x 26mm
+Z9A3B6C9D,Parafuso de aço espacial,Parafuso de aço carbono zincado,9mm x 30mm
+E5F8G3H7J,Parafuso de aço magnético,Parafuso de aço inox 316L,10mm x 35mm
+K2L5M8P1Q,Parafuso de aço inoxidável 304,Parafuso de rosca ACME,12mm x 40mm
+R6S9T3U7V,Parafuso de aço inoxidável 316,Parafuso de aço corten,14mm x 45mm
+W1X4Y7Z2A,Parafuso de aço inoxidável 410,Parafuso de alta temperatura,16mm x 50mm
+B5C8D2E6F,Parafuso de aço inoxidável 430,Parafuso de aço inox 321,18mm x 55mm
+G3H6J9K4L,Parafuso de aço inoxidável duplex,Parafuso de aço liga 4140,20mm x 60mm
+M9N3P6Q1R,Parafuso de aço inoxidável super duplex,Parafuso de rosca esquerda,22mm x 65mm
+S5T8U2V6W,Parafuso de aço inoxidável marítimo,Parafuso de aço inox 2205,25mm x 70mm
+X1Y4Z7A3B,Parafuso de aço inoxidável médico,Parafuso de aço inox 254,28mm x 75mm
+C7D2E5F9G,Parafuso de aço inoxidável alimentar,Parafuso de titânio Grade 2,30mm x 80mm
+H9J4K7L2M,Parafuso de aço inoxidável sanitário,Parafuso de aço inox 17-4PH,35mm x 90mm
+N3P6Q9R4S,Parafuso de aço inoxidável industrial,Parafuso de aço inox 904L,40mm x 100mm
+T7U1V4W8X,Parafuso de aço inoxidável decorativo,Parafuso de monel,45mm x 110mm
+Y2Z5A8B3C,Parafuso de aço inoxidável polido,Parafuso de hastelloy,50mm x 120mm
+D6E9F3G7H,Parafuso de aço inoxidável fosco,Parafuso de inconel 625,60mm x 150mm
+J3K6L9M4N,Parafuso de aço inoxidável escovado,Parafuso de zircônio,70mm x 180mm
+P7Q2R5S9T,Parafuso de aço inoxidável espelhado,Parafuso de tantalum,80mm x 200mm
+U1V4W7X2Y,Parafuso de aço inoxidável jateado,Parafuso de nióbio,90mm x 220mm
+Z5A8B3C7D,Parafuso de aço inoxidável pintado,Parafuso de tungstênio,100mm x 250mm
+E9F2G5H8J,Parafuso de aço inoxidável revestido,Parafuso de nióbio,90mm x 220mm
+K4L7M1P5Q,Parafuso de aço inoxidável anodizado,Parafuso de tungstênio,100mm x 250mm

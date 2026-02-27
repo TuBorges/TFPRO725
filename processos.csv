@@ -1,0 +1,99 @@
+id_processo,nome_processo,descricao,processo
+A7B3C9D2E,Seleção de Aço Bruto,Escolha da matéria-prima em barras ou bobinas.,Inicial
+F5G8H1J4K,Cisalhamento Primário,Corte inicial do aço no comprimento desejado.,Intermediário
+L2M6N9P3Q,Desbobinamento Controlado,Desenrolar da bobina de aço de forma uniforme.,Final
+R7S4T8U1V,Endireitamento de Precisão,Alinhamento da barra para evitar deformações.,Inicial
+W3X5Y9Z2A,Limpeza por Jato de Esfera,Remoção de impurezas superficiais com esferas metálicas.,Intermediário
+B8C1D4E7F,Decapagem Química Leve,Tratamento ácido para remover óxidos finos.,Final
+G2H5J8K3L,Lavagem Neutraizante,Enxágue para interromper a ação do ácido.,Inicial
+M4N7P1Q6R,Lubrificação Primária,Aplicação de óleo para facilitar o trabalho a frio.,Intermediário
+S9T2U5V8W,Trefilação Inicial,Redução do diâmetro da barra através de matrizes.,Final
+X3Y6Z9A2B,Medição Dimensional Contínua,Verificação online do diâmetro durante a trefilação.,Inicial
+C4D7E1F5G,Corte Secundário,Ajuste final do comprimento das peças brutas.,Intermediário
+H8J3K6L9M,Chanfradura da Cabeça,Criação de um ângulo na extremidade para facilitar o encaixe da ferramenta.,Final
+N2P5Q8R3S,Forjamento a Frio da Cabeça,Conformação da cabeça do parafuso por impacto.,Inicial
+T7U1V4W6X,Recozimento de Alívio,Tratamento térmico para reduzir tensões internas.,Intermediário
+Y9Z2A5B8C,Rebarbação da Cabeça,Remoção de arestas e imperfeições da cabeça.,Final
+D1E4F7G2H,Inspeção Visual da Cabeça,Verificação de defeitos na forma da cabeça.,Inicial
+J5K8L3M6N,Marcação da Cabeça (Opcional),"Gravação de informações (fabricante, resistência, etc.).",Intermediário
+P9Q2R5S8T,Laminação da Rosca,Criação da rosca por deformação plástica.,Final
+U3V6W9X2Y,Calibração da Rosca,Ajuste fino das dimensões da rosca.,Inicial
+Z4A7B1C5D,Verificação do Passo da Rosca,Medição da distância entre os filetes da rosca.,Intermediário
+E8F2G5H9J,Inspeção por Partículas Magnéticas,Detecção de trincas superficiais e subsuperficiais.,Final
+K3L6M9P2Q,Teste de Dureza Brinell,Medição da resistência do material à indentação.,Inicial
+R7S1T4U6V,Tratamento Térmico de Têmpera,Aquecimento seguido de resfriamento rápido para endurecimento.,Intermediário
+W9X2Y5Z8A,Revenimento Controlado,Reaquecimento para reduzir a fragilidade da têmpera.,Final
+B3C6D9E2F,Teste de Dureza Rockwell,Outro método de medição de dureza.,Inicial
+G5H8J1K4L,Polimento Vibratório,Acabamento superficial para melhorar a aparência.,Intermediário
+M7N2P5Q9R,Desengraxe Final,Remoção de óleos e resíduos do tratamento térmico.,Final
+S3T6U9V2W,Fosfatização,Criação de uma camada protetora de fosfato.,Inicial
+X5Y8Z1A4B,Lavagem Pós-Fosfatização,Remoção do excesso de fosfato.,Intermediário
+C9D2E5F8G,Secagem em Estufa,Remoção da umidade após a lavagem.,Final
+H1J4K7L2M,Zincagem Eletrolítica,Deposição de uma camada de zinco para proteção contra corrosão.,Inicial
+N5P8Q3R6S,Passivação (Zincagem),Tratamento para aumentar a resistência à corrosão da camada de zinco.,Intermediário
+T9U2V5W8X,Niquelagem Química,Deposição de níquel sem o uso de corrente elétrica.,Final
+Y3Z6A9B2C,Cromagem Decorativa,Aplicação de uma fina camada de cromo para estética.,Inicial
+D4E7F1G5H,Pintura Eletrostática,Aplicação de tinta em pó com carga elétrica.,Intermediário
+J8K3L6M9N,Cura da Pintura,Aquecimento para fixar a camada de tinta.,Final
+P2Q5R8S3T,Aplicação de Teflon,Revestimento para propriedades antiaderentes.,Inicial
+U6V9W2X5Y,Lubrificação Seca,Aplicação de um lubrificante sólido.,Intermediário
+Z7A1B4C8D,Inspeção Dimensional Final,Verificação de todas as dimensões do parafuso acabado.,Final
+E2F5G9H3J,Teste de Torque,Medição da resistência ao aperto e desaperto.,Inicial
+K6L9M2P5Q,Teste de Tração,Verificação da resistência à força de alongamento.,Intermediário
+R1S4T7U2V,Teste de Cisalhamento,Verificação da resistência ao corte.,Final
+W5X8Y1Z4A,Teste de Fadiga,Avaliação da resistência a cargas cíclicas.,Inicial
+B7C2D5E9F,Inspeção Visual Detalhada,Exame minucioso de cada parafuso.,Intermediário
+G9H3J6K2L,Separação de Lotes,Agrupamento de parafusos com características semelhantes.,Final
+M4N7P1Q5R,Contagem Automática,Contagem precisa dos parafusos produzidos.,Inicial
+S8T3U6V9W,Pesagem de Lotes,Verificação do peso para estimativa da quantidade.,Intermediário
+X2Y5Z8A3B,Embalagem Primária (Sacos),Envolvimento em sacos plásticos.,Final
+C6D9E2F5G,Etiquetagem Individual,Aplicação de etiquetas com informações do produto.,Inicial
+H3J6K9L2M,Embalagem Secundária (Caixas),Acondicionamento em caixas de papelão.,Intermediário
+N7P1Q4R8S,Paletização,Organização das caixas em paletes.,Final
+T3U6V9W2X,Filme Stretch,Envolvimento dos paletes com filme plástico.,Inicial
+Y5Z8A1B4C,Identificação dos Paletes,Etiquetagem dos paletes para rastreabilidade.,Intermediário
+D7E2F5G9H,Movimentação Interna,Transporte dos paletes para o estoque.,Final
+J1K4L7M3N,Armazenamento Controlado,Manutenção em condições adequadas de temperatura e umidade.,Inicial
+P5Q8R2S6T,Registro de Lotes,Criação de um histórico de produção para cada lote.,Intermediário
+U9V3W6X9Y,Amostragem para Controle de Qualidade,Retirada de amostras para testes adicionais.,Final
+Z2A5B8C1D,Análise Laboratorial,"Testes específicos em amostras (composição química, etc.).",Inicial
+E4F7G2H6J,Liberação de Lotes,Aprovação para envio após controle de qualidade.,Intermediário
+K8L3M6P9Q,Preparo da Documentação,Elaboração de notas fiscais e outros documentos.,Final
+R2S5T8U3V,Carregamento dos Veículos,Colocação dos paletes nos caminhões.,Inicial
+W6X9Y2Z5A,Pesagem da Carga,Verificação do peso total para transporte.,Intermediário
+B1C4D7E2F,Emissão de Conhecimento de Transporte,Documento para o transporte da carga.,Final
+G5H9J3K6L,Rastreamento do Envio,Monitoramento da localização da carga.,Inicial
+M8N2P5Q9R,Comunicação com o Cliente,Informações sobre o status da entrega.,Intermediário
+S4T7U1V5W,Avaliação da Satisfação do Cliente,Coleta de feedback sobre o produto e serviço.,Final
+X8Y3Z6A9B,Análise de Reclamações,Investigação de problemas reportados pelos clientes.,Inicial
+C2D5E8F3G,Melhoria Contínua de Processos,Busca por otimizações na produção.,Intermediário
+H6J9K2L5M,Manutenção Preventiva de Equipamentos,Inspeções e reparos regulares das máquinas.,Final
+N1P4Q7R2S,Calibração de Instrumentos de Medição,Ajuste dos equipamentos de medição.,Inicial
+T5U8V3W6X,Treinamento de Operadores,Capacitação dos funcionários para as tarefas.,Intermediário
+Y7Z2A5B9C,Controle de Estoque de Matéria-Prima,Gerenciamento do nível de materiais em estoque.,Final
+D3E6F9G2H,Controle de Estoque de Produtos Acabados,Gerenciamento do nível de parafusos prontos.,Inicial
+J7K2L5M8N,Gestão de Resíduos,Destinação correta dos materiais descartados.,Intermediário
+P1Q4R7S3T,Segurança do Trabalho,Implementação de medidas para prevenir acidentes.,Final
+U5V8W2X6Y,Auditoria de Qualidade,Verificação interna dos processos de produção.,Inicial
+Z9A3B6C9D,Certificações de Qualidade,"Obtenção e manutenção de normas (ISO, etc.).",Intermediário
+E5F8G3H7J,Desenvolvimento de Novos Produtos,Criação de parafusos com designs e materiais diferentes.,Final
+K2L5M8P1Q,Pesquisa de Mercado,Análise das necessidades dos clientes e tendências.,Inicial
+R6S9T3U7V,Marketing e Vendas,Promoção e comercialização dos parafusos.,Intermediário
+W1X4Y7Z2A,Orçamentação,Cálculo dos custos de produção.,Final
+B5C8D2E6F,Análise de Custos,Avaliação dos gastos em cada etapa do processo.,Inicial
+G3H6J9K4L,Planejamento da Produção,Definição das metas e cronogramas de produção.,Intermediário
+M9N3P6Q1R,Programação das Máquinas,Definição das ordens de produção nas máquinas.,Final
+S5T8U2V6W,Monitoramento da Produção,Acompanhamento do desempenho das máquinas.,Inicial
+X1Y4Z7A3B,Coleta de Dados de Produção,Registro de informações sobre o processo.,Intermediário
+C7D2E5F9G,Análise de Dados de Produção,Identificação de gargalos e oportunidades de melhoria.,Final
+H9J4K7L2M,Implementação de Ações Corretivas,Solução de problemas identificados.,Inicial
+N3P6Q9R4S,Validação de Novos Processos,Testes para garantir a eficácia de novas etapas.,Intermediário
+T7U1V4W8X,Otimização de Layout da Fábrica,Organização do espaço para melhorar o fluxo de produção.,Final
+Y2Z5A8B3C,Gestão da Cadeia de Suprimentos,Coordenação com fornecedores de matéria-prima.,Inicial
+D6E9F3G7H,Avaliação de Fornecedores,Seleção e monitoramento dos fornecedores.,Intermediário
+J3K6L9M4N,Controle Ambiental,Implementação de práticas sustentáveis.,Final
+P7Q2R5S9T,Gestão da Energia,Otimização do consumo de energia na produção.,Inicial
+U1V4W7X2Y,Manutenção Preditiva,Utilização de dados para prever falhas nos equipamentos.,Intermediário
+Z5A8B3C7D,Realidade Aumentada na Manutenção,Uso de tecnologia para auxiliar nos reparos.,Final
+E9F2G5H8J,Inteligência Artificial no Controle de Qualidade,Uso de IA para inspeção visual automática.,Inicial
+K4L7M1P5Q,Impressão 3D para Protótipos,Criação rápida de modelos para testes.,Intermediário

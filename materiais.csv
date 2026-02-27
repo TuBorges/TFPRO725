@@ -1,0 +1,99 @@
+id_material,nome_material,um_compra
+A7B3C9D2E,Aço Carbono SAE 1020,500 kg
+F5G8H1J4K,Aço Carbono SAE 1045,350 kg
+L2M6N9P3Q,Aço Inoxidável AISI 304,200 kg
+R7S4T8U1V,Aço Inoxidável AISI 316,150 kg
+W3X5Y9Z2A,Aço Liga 4140,400 kg
+B8C1D4E7F,Arame de Aço Baixo Carbono,1 ton
+G2H5J8K3L,Bobina de Aço Recozido,750 kg
+M4N7P1Q6R,Barra de Aço Trefilado,250 kg
+S9T2U5V8W,Aço para Cementação,300 kg
+X3Y6Z9A2B,Aço Boro,180 kg
+C4D7E1F5G,Óleo de Corte Integral,200 litros
+H8J3K6L9M,Fluido de Trefilação,150 litros
+N2P5Q8R3S,Óleo Hidráulico ISO VG 46,100 litros
+T7U1V4W6X,Graxa Multiuso,50 kg
+Y9Z2A5B8C,Desengraxante Industrial,80 litros
+D1E4F7G2H,Ácido Clorídrico,30 litros
+J5K8L3M6N,Ácido Sulfúrico,25 litros
+P9Q2R5S8T,Fosfato de Zinco,40 kg
+U3V6W9X2Y,Solução de Passivação,60 litros
+Z4A7B1C5D,Tinta Epóxi Preta,100 kg
+E8F2G5H9J,Tinta Acrílica Cinza,80 kg
+K3L6M9P2Q,Pó de Zinco,120 kg
+R7S1T4U6V,Níquel Sulfato,50 kg
+W9X2Y5Z8A,Cromo Metálico,20 kg
+B3C6D9E2F,Teflon em Pó,15 kg
+G5H8J1K4L,Lubrificante Sólido (MoS2),30 kg
+M7N2P5Q9R,Embalagem Plástica (Sacos),500 unidades
+S3T6U9V2W,Etiquetas Adesivas,1000 unidades
+X5Y8Z1A4B,Caixas de Papelão,200 unidades
+C9D2E5F8G,Filme Stretch para Paletes,10 rolos
+H1J4K7L2M,Paletes de Madeira,50 unidades
+N5P8Q3R6S,Arame de Solda,50 kg
+T9U2V5W8X,Gás Argônio,3 cilindros
+Y3Z6A9B2C,Eletrodos de Solda,10 kg
+D4E7F1G5H,Rebolos Abrasivos,20 unidades
+J8K3L6M9N,Lixas Industriais,50 metros
+P2Q5R8S3T,Feltro para Polimento,30 unidades
+U6V9W2X5Y,Escovas de Aço,40 unidades
+Z7A1B4C8D,Brocas de Aço Rápido,25 unidades
+E2F5G9H3J,Machos para Roscar,15 unidades
+K6L9M2P5Q,Calibradores de Rosca,10 unidades
+R1S4T7U2V,Micrômetros,5 unidades
+W5X8Y1Z4A,Paquímetros,10 unidades
+B7C2D5E9F,Durômetros,2 unidades
+G9H3J6K2L,Espectrômetro,1 unidade
+M4N7P1Q5R,Solução de Limpeza Ultrassônica,40 litros
+S8T3U6V9W,Aditivo Anticorrosivo,20 litros
+X2Y5Z8A3B,Óleo Protetivo Temporário,60 litros
+C6D9E2F5G,Fita Veda Rosca,30 rolos
+H3J6K9L2M,Estopa Industrial,20 kg
+N7P1Q4R8S,Papel Industrial,5 rolos
+T3U6V9W2X,Água Desmineralizada,100 litros
+Y5Z8A1B4C,Energia Elétrica,1 MWh
+D7E2F5G9H,Gás Natural,500 m³
+J1K4L7M3N,Ar Comprimido,(Uso Contínuo)
+P5Q8R2S6T,Emulsão de Resfriamento,120 litros
+U9V3W6X9Y,Abrasivo para Jateamento,2 tons
+Z2A5B8C1D,Agentes Tensoativos,15 litros
+E4F7G2H6J,Catalisador para Pintura,5 kg
+K8L3M6P9Q,Diluente para Tinta,30 litros
+R2S5T8U3V,Verniz Industrial,40 litros
+W6X9Y2Z5A,Primer Epóxi,70 kg
+B1C4D7E2F,Desmoldante,20 litros
+G5H9J3K6L,Aditivo Antiespumante,10 litros
+M8N2P5Q9R,Corante para Pintura,5 kg
+S4T7U1V5W,Solvente Industrial,50 litros
+X8Y3Z6A9B,Álcool Isopropílico,25 litros
+C2D5E8F3G,Acetona,15 litros
+H6J9K2L5M,Óleo Lubrificante para Correntes,10 litros
+N1P4Q7R2S,Graxa para Rolamentos,20 kg
+T5U8V3W6X,Selante Industrial,10 kg
+Y7Z2A5B9C,Adesivo Industrial,15 kg
+D3E6F9G2H,Borracha Nitrílica,50 metros
+J7K2L5M8N,Mangueiras Industriais,30 metros
+P1Q4R7S3T,Conexões Hidráulicas,100 unidades
+U5V8W2X6Y,Válvulas Industriais,10 unidades
+Z9A3B6C9D,Sensores de Nível,5 unidades
+E5F8G3H7J,Sensores de Temperatura,8 unidades
+K2L5M8P1Q,Cabos Elétricos,100 metros
+R6S9T3U7V,Disjuntores,15 unidades
+W1X4Y7Z2A,Lâmpadas Industriais,20 unidades
+B5C8D2E6F,EPIs (Luvas),50 pares
+G3H6J9K4L,EPIs (Óculos de Proteção),50 unidades
+M9N3P6Q1R,EPIs (Máscaras),50 unidades
+S5T8U2V6W,EPIs (Capacetes),20 unidades
+X1Y4Z7A3B,Panos de Limpeza,30 unidades
+C7D2E5F9G,Vassouras Industriais,5 unidades
+H9J4K7L2M,Detergente Industrial,20 litros
+N3P6Q9R4S,Desinfetante Industrial,15 litros
+T7U1V4W8X,Sacos de Lixo Industrial,100 unidades
+Y2Z5A8B3C,Ferramentas Manuais (Chaves),30 unidades
+D6E9F3G7H,Ferramentas Manuais (Alicates),20 unidades
+J3K6L9M4N,Parafusos de Fixação (Diversos),10 kg
+P7Q2R5S9T,Porcas (Diversas),8 kg
+U1V4W7X2Y,Arruelas (Diversas),5 kg
+Z5A8B3C7D,Rebites,1000 unidades
+E9F2G5H8J,Cavilhas,500 unidades
+K4L7M1P5Q,Graxa para Moldes,10 kg

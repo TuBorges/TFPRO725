@@ -1,0 +1,40 @@
+-- Tabela de Produtos
+CREATE TABLE Produtos (
+    id_produto CHAR PRIMARY KEY,
+    nome_produto CHAR NOT NULL,
+    descricao CHAR,
+    unidade_medida CHAR NOT NULL
+);
+
+-- Tabela de Processos
+CREATE TABLE Processos (
+    id_processo CHAR PRIMARY KEY,
+    nome_processo CHAR NOT NULL,
+    descricao CHAR,
+    processo CHAR
+);
+
+-- Tabela de Materiais
+CREATE TABLE Materiais (
+    id_material CHAR PRIMARY KEY,
+    nome_material CHAR NOT NULL,
+    um_compra CHAR NOT NULL
+);
+
+-- Tabela de relacionamento entre Produtos e Processos (1,n - 1,n)
+CREATE TABLE Produto_Processo (
+    id_produto CHAR NOT NULL,
+    id_processo CHAR NOT NULL,
+    PRIMARY KEY (id_produto, id_processo),
+    FOREIGN KEY (id_produto) REFERENCES Produtos(id_produto) ON DELETE CASCADE,
+    FOREIGN KEY (id_processo) REFERENCES Processos(id_processo) ON DELETE CASCADE
+);
+
+-- Tabela de relacionamento entre Processos e Materiais (N para N)
+CREATE TABLE Processo_Material (
+    id_processo CHAR NOT NULL,
+    id_material CHAR NOT NULL,
+    PRIMARY KEY (id_processo, id_material),
+    FOREIGN KEY (id_processo) REFERENCES Processos(id_processo) ON DELETE CASCADE,
+    FOREIGN KEY (id_material) REFERENCES Materiais(id_material) ON DELETE CASCADE
+);
