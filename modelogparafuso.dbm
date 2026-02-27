@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+CAUTION: Do not modify this file unless you know what you are doing.
+ Unexpected results may occur if the code is changed deliberately.
+-->
+<dbmodel pgmodeler-ver="1.1.6" use-changelog="false" max-obj-count="4"
+	 last-position="0,0" last-zoom="1"
+	 default-schema="public" default-owner="postgres"
+	 layers="Default layer"
+	 active-layers="0"
+	 layer-name-colors="#000000"
+	 layer-rect-colors="#b4b4b4"
+	 show-layer-names="false" show-layer-rects="false">
+<database name="new_database" is-template="false" allow-conns="true">
+</database>
+
+<schema name="public" layers="0" fill-color="#e1e1e1" name-color="#000000" sql-disabled="true">
+</schema>
+
+<table name="produtos" layers="0" collapse-mode="2" max-obj-count="4" z-value="0">
+	<schema name="public"/>
+	<role name="postgres"/>
+	<position x="80" y="160"/>
+	<column name="nome_produto">
+		<type name="char" length="0"/>
+	</column>
+	<column name="descricao">
+		<type name="char" length="0"/>
+	</column>
+	<column name="idproduto" not-null="true">
+		<type name="char" length="0"/>
+	</column>
+	<column name="unidade_medida">
+		<type name="char" length="0"/>
+	</column>
+	<constraint name="produtos_pk" type="pk-constr" table="public.produtos">
+		<columns names="idproduto" ref-type="src-columns"/>
+	</constraint>
+</table>
+
+<table name="processos" layers="0" collapse-mode="2" max-obj-count="4" z-value="0">
+	<schema name="public"/>
+	<role name="postgres"/>
+	<position x="640" y="40"/>
+	<column name="nome_processo">
+		<type name="char" length="0"/>
+	</column>
+	<column name="descricao">
+		<type name="char" length="0"/>
+	</column>
+	<column name="id_processo" not-null="true">
+		<type name="char" length="0"/>
+	</column>
+	<constraint name="processos_pk" type="pk-constr" table="public.processos">
+		<columns names="id_processo" ref-type="src-columns"/>
+	</constraint>
+
+	<customidxs object-type="column">
+		<object name="idproduto_produtos" index="3"/>
+	</customidxs>
+	<customidxs object-type="constraint">
+		<object name="produtos_fk" index="0"/>
+	</customidxs></table>
+
+<table name="materiais" layers="0" collapse-mode="2" max-obj-count="4" z-value="0">
+	<schema name="public"/>
+	<role name="postgres"/>
+	<position x="1220" y="60"/>
+	<column name="processo">
+		<type name="char" length="0"/>
+	</column>
+	<column name="um_compra">
+		<type name="char" length="0"/>
+	</column>
+	<column name="id_material" not-null="true">
+		<type name="char" length="0"/>
+	</column>
+	<column name="nome_material">
+		<type name="char" length="0"/>
+	</column>
+	<constraint name="materiais_pk" type="pk-constr" table="public.materiais">
+		<columns names="id_material" ref-type="src-columns"/>
+	</constraint>
+</table>
+
+<relationship name="produtos_has_many_processos" type="rel1n" layers="0"
+	 src-col-pattern="{sc}_{st}"
+	 pk-pattern="{dt}_pk" uq-pattern="{dt}_uq"
+	 src-fk-pattern="{st}_fk"
+	 custom-color="#b44a88"
+	 src-table="public.produtos"
+	 dst-table="public.processos"
+	 src-required="false" dst-required="false"/>
+
+<table name="many_processos_has_many_materiais" layers="0" collapse-mode="2" max-obj-count="3" z-value="0">
+	<schema name="public"/>
+	<position x="620" y="360"/>
+</table>
+
+<relationship name="processos_has_many_many_processos_has_many_materiais" type="rel1n" layers="0"
+	 src-col-pattern="{sc}_{st}"
+	 pk-pattern="{dt}_pk" uq-pattern="{dt}_uq"
+	 src-fk-pattern="{st}_fk"
+	 custom-color="#ad7726"
+	 src-table="public.processos"
+	 dst-table="public.many_processos_has_many_materiais"
+	 src-required="true" dst-required="false"
+	 identifier="true"
+/>
+
+<relationship name="materiais_has_many_many_processos_has_many_materiais" type="rel1n" layers="0"
+	 src-col-pattern="{sc}_{st}"
+	 pk-pattern="{dt}_pk" uq-pattern="{dt}_uq"
+	 src-fk-pattern="{st}_fk"
+	 custom-color="#ad7726"
+	 src-table="public.materiais"
+	 dst-table="public.many_processos_has_many_materiais"
+	 src-required="true" dst-required="false"
+	 identifier="true"
+/>
+
+</dbmodel>
